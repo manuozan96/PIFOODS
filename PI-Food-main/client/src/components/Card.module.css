@@ -1,0 +1,71 @@
+.container{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.5s;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    display: flex;
+    padding: 0.5rem 0.5rem;
+    /* width: 500px; */
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+    flex-direction: auto;
+    height: auto;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    border : 1px solid white; 
+    border-radius: 10px;
+    background-image: url('https://i.pinimg.com/736x/85/98/dc/8598dc882685800fa4706e115d9e8c67.jpg');
+}   
+.name{
+    font-size: 15px;
+    text-align: center;
+    width: 20rem;
+    color: black;
+}
+.card{
+  width: 30%;
+  display: flex;
+  height: 8rem; 
+}
+.card img {
+    border-color: beige;
+    border-radius: 5rem;
+    margin-left: 150px;
+    height: 138%;
+    margin-right: 150px;
+    
+}
+.container:hover {
+    transform: scale(1.0);
+  }
+
+.text{
+    font-size: 15px;
+    padding: 1px;
+    margin-left: 140px;
+    background-color: #d5c3b1;
+    margin-right: 150px;
+    width: 20rem;
+    border: 1px solid #d5c3b1;
+    color: black;
+    width: 60%;
+    text-decoration: none;
+    list-style: none;
+}
+
+.btnFav{
+    border: 1px solid #d5c3b1;
+    border-radius: 10px;
+    margin-right: 110%;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.btnFav:hover{
+    transform: scale(2.05);
+}

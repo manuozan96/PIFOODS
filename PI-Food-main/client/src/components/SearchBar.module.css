@@ -1,0 +1,86 @@
+.input {
+    line-height: 10px;
+    border: 1px solid transparent;
+    border-bottom-color: black;
+    outline: none;
+    background-color: transparent;
+    color: #0d0c22;
+    -webkit-transition: .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    width: 15%;
+   }
+   
+   .input:focus, input:hover {
+    outline: none;
+    padding: .2rem 1rem;
+    border-radius: 1rem;
+    border-color: #7a9cc6;
+   }
+   
+   .input::-webkit-input-placeholder {
+    color: #777;
+   }
+   
+   .input::-moz-placeholder {
+    color: #777;
+   }
+   
+   .input:-ms-input-placeholder {
+    color: #777;
+   }
+   
+   .input::-ms-input-placeholder {
+    color: #777;
+   }
+   
+   .input::placeholder {
+    color: #777;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+   }
+   
+   .input:focus::-webkit-input-placeholder {
+    opacity: 0;
+    -webkit-transition: opacity .3s;
+    transition: opacity .3s;
+   }
+   
+   .input:focus::-moz-placeholder {
+    opacity: 0;
+    -moz-transition: opacity .3s;
+    transition: opacity .3s;
+   }
+   
+   .input:focus:-ms-input-placeholder {
+    opacity: 0;
+    -ms-transition: opacity .3s;
+    transition: opacity .3s;
+   }
+   
+   .input:focus::-ms-input-placeholder {
+    opacity: 0;
+    -ms-transition: opacity .3s;
+    transition: opacity .3s;
+   }
+   
+   .input:focus::placeholder {
+    opacity: 0;
+    -webkit-transition: opacity .3s;
+    transition: opacity .3s;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+   }
+   
+   .btn{
+    border-radius: 10px;
+    border-color: #eee8df;
+    background-color: #eee8df;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    cursor: pointer;
+  
+  }
+   
+   
+   
+   

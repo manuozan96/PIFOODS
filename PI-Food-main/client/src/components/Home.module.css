@@ -1,0 +1,39 @@
+.btnReload {
+    width: fit-content;
+    min-width: 100px;
+    height: 45px;
+    padding: 8px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+    user-select: none;
+    font-size: 14px;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+  }
+  
+
+.btnCreate{
+  border-radius: 10px;
+  border-color: white;
+  background-color: white;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Phudu', cursive;
+  cursor: pointer;
+}
+
+
+.select{
+  border: none;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Phudu', cursive;
+}
+
+.link{
+  text-decoration: none;
+  color: black
+}
+
+ 
+ 

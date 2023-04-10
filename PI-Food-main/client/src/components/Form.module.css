@@ -1,0 +1,70 @@
+.input {
+    font-size: 20px;
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+    border-bottom: 1px solid #e5e5e5;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    width: 40%;
+  }
+  
+  .input:focus {
+    border-bottom: 1px solid #e5e5e5;
+    -webkit-transition: 0.1s;
+    transition: 0.5s;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+  }
+
+  .textarea {
+    font-size: 20px;
+    height: 4rem;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: none;
+    border-bottom: 1px solid #e5e5e5;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    width: 40%;
+  }
+  .btn{
+    border-radius: 10px;
+    border-color: white;
+    background-color: white;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    cursor: pointer;
+  }
+
+  .h11{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    background-color: #d5c3b1;
+    width: 25%;
+    margin-left: 35%;
+    color: black;
+  }
+
+  .select{
+    border: none;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+  }
+
+  .btnCreate{
+    border-radius: 10px;
+    border-color: white;
+    background-color: white;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    cursor: pointer;
+    margin-right: 2%;
+    margin-right: 25%;
+    margin-left: 22%;
+  }
+
+  .label{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+  }

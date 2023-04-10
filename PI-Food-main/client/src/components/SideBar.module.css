@@ -1,0 +1,16 @@
+.sidebar{
+    width: 8rem;
+    height: calc(100vh - 5);
+    border-right: 0.5px solid #A8967E;
+
+}
+
+.li{
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    list-style-type: none;
+    color: black;
+    margin-right: 12rem;
+    cursor: pointer;
+}

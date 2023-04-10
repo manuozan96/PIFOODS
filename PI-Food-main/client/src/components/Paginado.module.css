@@ -1,0 +1,9 @@
+.btn{
+    border: none;
+    border-radius: 10px;
+    background-color: #A99B8B;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Phudu', cursive;
+    margin-left: 10px;
+    cursor: pointer;
+}
